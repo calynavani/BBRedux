@@ -1,0 +1,14 @@
+C:\Users\CGreene1\source\repos\BBMovieLabRedux\BBMovieLabRedux\bin\Debug\netcoreapp3.1\BBMovieLabRedux.exe
+C:\Users\CGreene1\source\repos\BBMovieLabRedux\BBMovieLabRedux\bin\Debug\netcoreapp3.1\BBMovieLabRedux.deps.json
+C:\Users\CGreene1\source\repos\BBMovieLabRedux\BBMovieLabRedux\bin\Debug\netcoreapp3.1\BBMovieLabRedux.runtimeconfig.json
+C:\Users\CGreene1\source\repos\BBMovieLabRedux\BBMovieLabRedux\bin\Debug\netcoreapp3.1\BBMovieLabRedux.runtimeconfig.dev.json
+C:\Users\CGreene1\source\repos\BBMovieLabRedux\BBMovieLabRedux\bin\Debug\netcoreapp3.1\BBMovieLabRedux.dll
+C:\Users\CGreene1\source\repos\BBMovieLabRedux\BBMovieLabRedux\bin\Debug\netcoreapp3.1\BBMovieLabRedux.pdb
+C:\Users\CGreene1\source\repos\BBMovieLabRedux\BBMovieLabRedux\obj\Debug\netcoreapp3.1\BBMovieLabRedux.csproj.AssemblyReference.cache
+C:\Users\CGreene1\source\repos\BBMovieLabRedux\BBMovieLabRedux\obj\Debug\netcoreapp3.1\BBMovieLabRedux.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CGreene1\source\repos\BBMovieLabRedux\BBMovieLabRedux\obj\Debug\netcoreapp3.1\BBMovieLabRedux.AssemblyInfoInputs.cache
+C:\Users\CGreene1\source\repos\BBMovieLabRedux\BBMovieLabRedux\obj\Debug\netcoreapp3.1\BBMovieLabRedux.AssemblyInfo.cs
+C:\Users\CGreene1\source\repos\BBMovieLabRedux\BBMovieLabRedux\obj\Debug\netcoreapp3.1\BBMovieLabRedux.csproj.CoreCompileInputs.cache
+C:\Users\CGreene1\source\repos\BBMovieLabRedux\BBMovieLabRedux\obj\Debug\netcoreapp3.1\BBMovieLabRedux.dll
+C:\Users\CGreene1\source\repos\BBMovieLabRedux\BBMovieLabRedux\obj\Debug\netcoreapp3.1\BBMovieLabRedux.pdb
+C:\Users\CGreene1\source\repos\BBMovieLabRedux\BBMovieLabRedux\obj\Debug\netcoreapp3.1\BBMovieLabRedux.genruntimeconfig.cache
